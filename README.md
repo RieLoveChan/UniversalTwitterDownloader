@@ -3,7 +3,7 @@
 ## Overview
 This package contains a flexible solution to download all media (images and videos) from **any** Twitter/X account. The script accepts user input for the target account instead of being hardcoded to a specific user.
 
-## ✨ New Features
+## ✨ Features
 - **Universal account support** - Works with any public Twitter account
 - **Flexible input formats** - Accepts usernames, @mentions, or full URLs
 - **Dynamic configuration** - Creates custom settings for each account
