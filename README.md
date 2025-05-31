@@ -1,7 +1,7 @@
 # Universal Twitter Media Downloader
 
 ## Overview
-This package contains a flexible solution to download all media (images and videos) from **any** Twitter/X account. The script accepts user input for the target account instead of being hardcoded to a specific user.
+This package contains a flexible solution to download all media (images and videos) from **any** Twitter/X account. The script accepts user input for the target account.
 
 ## ✨ Features
 - **Universal account support** - Works with any public Twitter account
@@ -12,11 +12,11 @@ This package contains a flexible solution to download all media (images and vide
 
 ## 📁 Files Available
 
-### Main Scripts
+### Main Script
 - **`download_media_flexible.py`** - Universal downloader for any Twitter account
 
 ### Documentation
-- **`README.md`** - Original documentation
+- **`README.md`** - Documentation
 - **`account_metadata.json`** - Sample metadata file
 
 ### Directory Structure
@@ -29,7 +29,7 @@ This package contains a flexible solution to download all media (images and vide
 └── metadata/        # Tweet metadata (JSON)
 ```
 
-## 🚀 How to Use the Flexible Version
+## ⌨️ How to use
 
 ### 1. Run the Script
 ```bash
