@@ -14,7 +14,6 @@ This package contains a flexible solution to download all media (images and vide
 
 ### Main Scripts
 - **`download_media_flexible.py`** - Universal downloader for any Twitter account
-- **`download_media.py`** - Original script (hardcoded for @toytoytoybear)
 
 ### Documentation
 - **`README.md`** - Original documentation
@@ -131,11 +130,4 @@ Current Directory/
 - Users responsible for copyright compliance
 - Recommended for personal use and fair use cases
 
-## 🔄 Upgrade Path
-If you were using the original hardcoded version:
-1. Download `download_media_flexible.py`
-2. Run it instead of the original script
-3. Enter the same account when prompted
-4. All existing functionality preserved with added flexibility
-
-This enhanced version transforms the tool from a single-purpose downloader into a universal Twitter media archival solution!
+## The universal Twitter media archival solution!
