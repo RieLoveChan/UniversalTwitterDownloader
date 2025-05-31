@@ -1,0 +1,35 @@
+{
+  "account": {
+    "username": "toytoytoybear",
+    "display_name": "めいろ",
+    "profile_url": "https://twitter.com/toytoytoybear",
+    "alt_url": "https://x.com/toytoytoybear"
+  },
+  "download_info": {
+    "attempted_date": "2025-05-31",
+    "status": "requires_manual_authentication",
+    "media_type": "illustrations_and_artwork",
+    "description": "Japanese artist account posting illustrations and artwork"
+  },
+  "recommended_tools": [
+    {
+      "name": "gallery-dl",
+      "method": "command_line",
+      "authentication_required": true,
+      "reliability": "high"
+    },
+    {
+      "name": "X Media Downloader",
+      "method": "browser_extension",
+      "authentication_required": false,
+      "reliability": "medium"
+    },
+    {
+      "name": "WFDownloader",
+      "method": "web_application",
+      "authentication_required": false,
+      "reliability": "medium"
+    }
+  ],
+  "notes": "Account contains artistic content that may be subject to copyright. Please respect the artist's rights and Twitter's Terms of Service when downloading."
+}
